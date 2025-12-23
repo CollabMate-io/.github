@@ -44,7 +44,7 @@ It centralizes **client onboarding, collaboration, project management, and file 
 
 ## 👨‍💻 Founders & Maintainers
 
-| Name | Role | Contact |
+| Name | Role |
 |------|------|---------|
 | T3mq | Founder / Full-Stack Dev |
 | Boubouw | Founder / Full-Stack Dev |
