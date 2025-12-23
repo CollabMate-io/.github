@@ -30,7 +30,7 @@ It centralizes **client onboarding, collaboration, project management, and file 
 [![Skills](https://skillicons.dev/icons?i=react,nodejs,py,mysql,git)](#)
 
 ### Tools & Productivity
-[![Tools](https://skillicons.dev/icons?i=vscode,intellij,vscode,figma,notion,slack,bash)](#)
+[![Tools](https://skillicons.dev/icons?i=vscode,figma,notion,bash)](#)
 
 ---
 
